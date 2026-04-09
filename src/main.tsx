@@ -12,7 +12,7 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <Provider store={store}>
       <MantineProvider>
-        <BrowserRouter basename="/4.2.3/">
+        <BrowserRouter basename="/5.2.5/">
           <App />
         </BrowserRouter>
       </MantineProvider>
